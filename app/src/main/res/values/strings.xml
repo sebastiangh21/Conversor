@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Conversor</string>
+    <string name="amount">Cantidad</string>
+    <string name="badge">Divisa</string>
+    <string name="convert_to">Convertir a</string>
+    <string name="amount_of_badge">Cantidad de divisa</string>
+    <string name="convert">Convertir</string>
+    <string name="conversion">Conversion</string>
+    <string name="badge_error">Valor invalido</string>
+    <string-array name="badges_list">
+        <item>Peso Colombiano(COP)</item>
+        <item>Dolar Estadounidense(USD)</item>
+        <item>Euro(EUR)</item>
+        <item>Real Brasileño(BRL)</item>
+        <item>Yuan Chino(CNY)</item>
+    </string-array>
+</resources>
